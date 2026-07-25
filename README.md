@@ -18,7 +18,7 @@ O projeto apresenta uma página institucional com informações sobre a clínica
 
 ## 📸 Preview
 
-![FisioTech Preview](./IMG/preview.png)
+![FisioTech Preview](preview.png)
 
 ---
 
